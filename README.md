@@ -4,6 +4,9 @@ My name is Valeria Zaborovskaia, I'm 4th grade student in [MIPT](https://mipt.ru
 I gain experience by completing projects and taking courses. Open to work 🤗
 
 ### [My CV](https://github.com/valerizabby/valerizabby/blob/main/cv%20eng.pdf)
-### Contact me 
+### Contact me
+<img src="https://github.com/valerizabby/valerizabby/blob/main/icons/linkedin.png" width="16" height="16"> [Linkedin](https://www.linkedin.com/in/valeriya-zaborovskaya/)
 
+<img src="https://github.com/valerizabby/valerizabby/blob/main/icons/teleg.png" width="16" height="16"> [Telegram](https://t.me/valerizab)
 
+<img src="https://github.com/valerizabby/valerizabby/blob/main/icons/email.png" width="20" height="16"> valerizab@mail.ru
